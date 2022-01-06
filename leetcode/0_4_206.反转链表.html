@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>反转链表</title>
+  </head>
+  <body>
+    <script src="./0_4_206.反转链表.js"></script>
+    <script>
+      class List {
+        constructor(data) {
+          this.data = data; //数据域
+          this.next = null; //指针域 =》js中没有指针，可以看做引用域
+        }
+      }
+      let next = null;
+      head = new List(1);
+      head.next = new List(2);
+      head.next.next = new List(3);
+      head.next.next.next = new List(4);
+      head.next.next.next.next = new List(5);
+      head.next.next.next.next.next = new List(6);
+      head.next.next.next.next.next.next = new List(7);
+      head.next.next.next.next.next.next.next = new List(8);
+      // head.next.next.next.next.next.next.next = head.next.next;
+  
+    </script>
+    <script>
+      //递归
+      console.log('递归',reverseList_recursion(head));
+      //快慢指针=》快慢索引
+      console.log('pre cur next',reverseList_pre_cur(head));
+      // console.log(detectCycle(head))
+    </script>
+  </body>
+</html>

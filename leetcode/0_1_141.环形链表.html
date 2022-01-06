@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>链表List</title>
+  </head>
+  <body>
+    <p>第一种链表</p>
+    <script src="./0_1_141.环形链表.js"></script>
+    <script>
+      class List {
+        constructor(data) {
+          this.data = data; //数据域
+          this.next = null; //指针域 =》js中没有指针，可以看做引用域
+        }
+      }
+      let next = null;
+      head = new List(1);
+      head.next = new List(2);
+      head.next.next = new List(3);
+      head.next.next.next = new List(4);
+      head.next.next.next.next = new List(5);
+      head.next.next.next.next.next = new List(6);
+      head.next.next.next.next.next.next = new List(7);
+      head.next.next.next.next.next.next.next = new List(8);
+      // head.next.next.next.next.next.next.next = head.next.next;
+      // console.log(head)
+      // next=head
+      // while(next!=null){
+      //     console.log(next.data)
+      //     next=next.next
+      // }
+    </script>
+    <!-- <p>第二种链表</p>
+    <script>
+      const data = []; //数据域
+      const next = []; //引用域
+      const add = (idx, pointer, vle) => {
+        // console.log(next[idx])
+        // debugger
+        next[pointer] = next[idx];
+        console.log(next[pointer]);
+        next[idx] = pointer;
+        data[pointer] = vle;
+      };
+      data[3] = 0;
+      add(3, 5, 1);
+      add(5, 2, 2);
+      // add(2,7,3)
+      // add(7,9,100)
+
+      console.log("数据域", data);
+      console.log("引用域", next);
+      add(5, 6, 123);
+      console.log("数据域", data);
+      console.log("引用域", next);
+      let head = 3;
+      while (head != null) {
+        console.log(data[head]);
+        head = next[head];
+      }
+      console.log(next[9], 1111);
+    </script> -->
+    <script>
+      //访问target
+      console.log('访问target',hasCycle_Target(head));
+      //快慢指针=》快慢索引
+      console.log('快慢指针',hasCycle_Fast_Slow(head));
+      console.log('hash',hasCycle_hash(head));
+    </script>
+  </body>
+</html>
