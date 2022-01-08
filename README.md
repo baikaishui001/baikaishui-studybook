@@ -29,4 +29,7 @@
 
 25. k-个一组翻转链表    
 [掘金](https://juejin.cn/post/7050739061987737613)  
-[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/1_1_25.k-%E4%B8%AA%E4%B8%80%E7%BB%84%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8.js)
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/1_1_25.k-%E4%B8%AA%E4%B8%80%E7%BB%84%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8.js)        
+61. 旋转链表        
+[掘金](https://juejin.cn/post/7050834474648469535)  
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/1_2_61.%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8.js)        
