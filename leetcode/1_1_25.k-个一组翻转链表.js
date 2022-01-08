@@ -50,37 +50,32 @@ var reverseKGroup1 = function (head, k) {
 var reverseKGroup = function (head, k) {
   if (!head || !head.next || k === 1) return head;
   let tempNode = new ListNode(-1, head);
-  let c=0;
-  let endNode=tempNode.next
-  let preNode=tempNode
-while(endNode){
-    if(++c%k===0){
-        preNode=reverse(preNode,endNode)
-        debugger
-        endNode=preNode.next
-    }else {
-        endNode=endNode.next
+  let c = 0;
+  let endNode = tempNode.next;
+  let preNode = tempNode;
+  while (endNode) {
+    if (++c % k === 0) {
+      preNode = reverse(preNode, endNode);
+      endNode = preNode.next;
+    } else {
+      endNode = endNode.next;
     }
-}
+  }
 
   return tempNode.next;
 };
 var reverse = function (preNode, endnode) {
-
-    let pre=preNode,
-    cur=pre.next,
+  let pre = preNode,
+    cur = pre.next,
     next;
-    while (next!==endnode) {
-        debugger
-        next = cur.next;
-        cur.next = next.next;
-        next.next = pre.next;
-        pre.next = next;
-      }
-    
-//    console.log(cur)
-// //    debugger
-  return cur
+  while (next !== endnode) {
+    debugger;
+    next = cur.next;
+    cur.next = next.next;
+    next.next = pre.next;
+    pre.next = next;
+  }
+  return cur;
 };
 
 // @lc code=end
