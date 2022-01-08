@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>k-个一组翻转链表</title>
+  </head>
+  <body>
+    <script src="./25.k-个一组翻转链表.js"></script>
+    <script>
+      class ListNode {
+        constructor(val,next) {
+          this.data = (val===undefined ? 0 : val)
+          this.next = (next===undefined ? null : next)
+          // this.data = ; //数据域
+          // this.next = null; //指针域 =》js中没有指针，可以看做引用域
+        }
+      }
+      let next = null;
+      head = new ListNode(1);
+      head.next= new ListNode(2);
+      head.next.next = new ListNode(3);
+      head.next.next.next = new ListNode(4);
+      head.next.next.next.next = new ListNode(5);
+      head.next.next.next.next.next = new ListNode(6);
+      head.next.next.next.next.next.next = new ListNode(7);
+      head.next.next.next.next.next.next.next = new ListNode(8);
+  
+    </script>
+    <script>
+      //递归
+      console.log(reverseKGroup(head,2));
+      // //快慢指针=》快慢索引
+      // console.log('pre cur next',reverseList_pre_cur(head));
+      // // console.log(detectCycle(head))
+    </script>
+  </body>
+</html>
