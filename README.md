@@ -3,6 +3,9 @@
 
 
 ## 2022-01-08       
+83. 删除排序链表中的重复元素 
+[掘金](https://juejin.cn/post/7051118090058203166/)     
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/1_5_83.%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.js)   
 19. 删除链表的倒数第 N 个结点   
 [掘金](https://juejin.cn/post/7051111853933461541)     
 [代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/1_4_19.%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC-n-%E4%B8%AA%E7%BB%93%E7%82%B9.js)   
