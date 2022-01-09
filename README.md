@@ -4,7 +4,7 @@
 
 ## 2022-01-08       
 86. 分隔链表        
-[掘金](https://datajuejin.cn/post/7051210248400420871/)
+[掘金](https://juejin.cn/post/7051210248400420871/)     
 [代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/2_1_86.%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.js)
 83. 删除排序链表中的重复元素     
 [掘金](https://juejin.cn/post/7051118090058203166/)     
