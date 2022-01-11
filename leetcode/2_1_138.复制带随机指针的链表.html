@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>138.复制带随机指针的链表</title>
+  </head>
+  <body>
+    <script src="./2_1_138.复制带随机指针的链表.js"></script>
+    <script>
+      class ListNode {
+        constructor(val, next,random) {
+          this.data = val === undefined ? 0 : val;
+          this.next = next === undefined ? null : next;
+          this.random = random||null
+          // this.data = ; //数据域
+          // this.next = null; //指针域 =》js中没有指针，可以看做引用域
+        }
+      }
+      let node7 = new ListNode(7),
+        node13 = new ListNode(13),
+        node11 = new ListNode(11),
+        node10 = new ListNode(10),
+        node1 = new ListNode(1);
+        node7.next=node13
+        node13.next=node11
+        node13.random=node7
+        node11.next=node10
+        node11.random=node1
+        node11.target="old"
+        node10.next=node1
+        node10.random=node11
+        node1.random=node7
+        node1.next=null
+        // console.log(node7)
+    </script>
+    <script>
+      //递归
+      console.log(copyRandomList(node7));
+      // //快慢指针=》快慢索引
+      // console.log('pre cur next',reverseList_pre_cur(head));
+      // // console.log(detectCycle(head))
+    </script>
+  </body>
+</html>
