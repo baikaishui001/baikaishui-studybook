@@ -3,7 +3,7 @@
 leetcode-
 ## 2022-01-11              
 138. 复制带随机指针的链表                     
-[掘金](https://nojuejin.cn/post/7051890605869236254/)       
+[掘金](https://juejin.cn/post/7051890605869236254/)       
 [代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/2_1_138.%E5%A4%8D%E5%88%B6%E5%B8%A6%E9%9A%8F%E6%9C%BA%E6%8C%87%E9%92%88%E7%9A%84%E9%93%BE%E8%A1%A8.js)      
 ## 2022-01-08       
 86. 分隔链表        
