@@ -19,7 +19,7 @@ leetcode-
 [代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/2_2_86.%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.js)         
 82.删除排序链表中的重复元素 II                       
 [掘金](https://juejin.cn/post/7052252593690509349/)                    
-[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/2_1_82.%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0-ii..js)
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/2_1_82.%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0-ii.js)
 
 ## 2022-01-08       
 83.删除排序链表中的重复元素     
