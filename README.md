@@ -1,13 +1,16 @@
 # baikaishui-studybook
 算法学历笔记
-leetcode-
+leetcode
+
+
+## 2022-01-13      
+1670.设计前中后队列     
+[掘金](https://juejin.cn/post/7052695733304033288/)         
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/3_1_1670.%E8%AE%BE%E8%AE%A1%E5%89%8D%E4%B8%AD%E5%90%8E%E9%98%9F%E5%88%97.js)                
 ## 2022-01-11  
-
-
 641.设计循环双端队列        
 [掘金](https://juejin.cn/post/7052209048543821861/)         
 [代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/2_5_641.%E8%AE%BE%E8%AE%A1%E5%BE%AA%E7%8E%AF%E5%8F%8C%E7%AB%AF%E9%98%9F%E5%88%97.js)                
-
 622.设计循环队列                
 [掘金](https://juejin.cn/post/7052195542025109540/)          
 [代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/2_4_622.%E8%AE%BE%E8%AE%A1%E5%BE%AA%E7%8E%AF%E9%98%9F%E5%88%97.js)          
