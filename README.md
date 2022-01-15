@@ -4,6 +4,9 @@ leetcode
 
 
 ## 2022-01-13      
+17.09.第k个数          
+[掘金](https://juejin.cn/post/7053307788906201118/)               
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/3_3_17.09.%E7%AC%ACk%E4%B8%AA%E6%95%B0。js)         
 933.最近的请求次数     
 [掘金](https://juejin.cn/post/7053003166878531621/  )         
 [代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/3_2_933.%E6%9C%80%E8%BF%91%E7%9A%84%E8%AF%B7%E6%B1%82%E6%AC%A1%E6%95%B0.js)   
