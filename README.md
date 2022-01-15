@@ -3,7 +3,10 @@
 leetcode
 
 
-## 2022-01-13      
+## 2022-01-13     
+860.柠檬水找零                          
+[掘金](https://juejin.cn/post/7053415690144841765/ )                            
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/3_5_860.%E6%9F%A0%E6%AA%AC%E6%B0%B4%E6%89%BE%E9%9B%B6.js)                 
 859.亲密字符串               
 [掘金](https://juejin.cn/post/7053356686022541342/)                 
 [代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/3_4_859.%E4%BA%B2%E5%AF%86%E5%AD%97%E7%AC%A6%E4%B8%B2.js)        
