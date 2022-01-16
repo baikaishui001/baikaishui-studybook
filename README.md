@@ -2,7 +2,10 @@
 算法学历笔记
 leetcode
 
-
+## 2022-01-15   
+969.煎饼排序            
+[掘金](https://juejin.cn/post/7053697145836142605/)        
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/4_1_969.%E7%85%8E%E9%A5%BC%E6%8E%92%E5%BA%8F.js)                
 ## 2022-01-13     
 860.柠檬水找零                          
 [掘金](https://juejin.cn/post/7053415690144841765/ )                            
