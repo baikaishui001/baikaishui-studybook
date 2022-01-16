@@ -2,7 +2,17 @@
 算法学历笔记
 leetcode
 
+
 ## 2022-01-15   
+844.比较含退格的字符串         
+[掘金](https://juejin.cn/post/7053805198560460830/)        
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/4_5_844.%E6%AF%94%E8%BE%83%E5%90%AB%E9%80%80%E6%A0%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.js)  
+682.棒球比赛         
+[掘金](https://juejin.cn/post/7053793478001557518/)        
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/4_4_682.%E6%A3%92%E7%90%83%E6%AF%94%E8%B5%9B.js)  
+面试题03.04.化栈为队          
+[掘金](https://juejin.cn/post/7053788190666129438/)        
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/4_3_%E9%9D%A2%E8%AF%95%E9%A2%9803.04.%E5%8C%96%E6%A0%88%E4%B8%BA%E9%98%9F.js)  
 621.任务调度器          
 [掘金](https://juejin.cn/post/7053731228112912392/)        
 [代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/4_2_621.%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E5%99%A8.js)  
