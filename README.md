@@ -1,12 +1,11 @@
 # baikaishui-studybook
 算法学历笔记
 leetcode
-
-
-## 2022-01-15   
-844.比较含退格的字符串         
-[掘金](https://juejin.cn/post/7053805198560460830/)        
-[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/4_5_844.%E6%AF%94%E8%BE%83%E5%90%AB%E9%80%80%E6%A0%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.js)  
+## 2022-01-17   
+946.验证栈序列        
+[掘金](https://juejin.cn/post/7054109337626607623/)        
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/5_1_946.%E9%AA%8C%E8%AF%81%E6%A0%88%E5%BA%8F%E5%88%97.js)  
+## 2022-01-15  
 682.棒球比赛         
 [掘金](https://juejin.cn/post/7053793478001557518/)        
 [代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/4_4_682.%E6%A3%92%E7%90%83%E6%AF%94%E8%B5%9B.js)  
