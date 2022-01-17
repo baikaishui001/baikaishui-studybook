@@ -1,7 +1,14 @@
 # baikaishui-studybook
 算法学历笔记
 leetcode
+
 ## 2022-01-17   
+1021.删除最外层的括号       
+[掘金](https://juejin.cn/post/7054171397261623309/)        
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/5_3_1021.%E5%88%A0%E9%99%A4%E6%9C%80%E5%A4%96%E5%B1%82%E7%9A%84%E6%8B%AC%E5%8F%B7.js)  
+20.有效的括号        
+[掘金](https://juejin.cn/post/7054156295565541383/)        
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/5_2_20.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.js)  
 946.验证栈序列        
 [掘金](https://juejin.cn/post/7054109337626607623/)        
 [代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/5_1_946.%E9%AA%8C%E8%AF%81%E6%A0%88%E5%BA%8F%E5%88%97.js)  
