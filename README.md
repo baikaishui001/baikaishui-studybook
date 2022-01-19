@@ -3,6 +3,14 @@
 leetcode
 
 ## 2022-01-17   
+
+
+145.二叉树的后序遍历                  
+[掘金](https://juejin.cn/post/7054908569103106084/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/5_5_145.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.js)          
+1249.移除无效的括号      
+[掘金](https://juejin.cn/post/7054528590540439583/)        
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/5_4_1249.%E7%A7%BB%E9%99%A4%E6%97%A0%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.js)  
 1021.删除最外层的括号       
 [掘金](https://juejin.cn/post/7054171397261623309/)        
 [代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/5_3_1021.%E5%88%A0%E9%99%A4%E6%9C%80%E5%A4%96%E5%B1%82%E7%9A%84%E6%8B%AC%E5%8F%B7.js)  
