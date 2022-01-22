@@ -2,9 +2,23 @@
 算法学历笔记
 leetcode
 
+## 2022-01-21   
+02.02.返回倒数第k个节点  
+[掘金](https://juejin.cn/post/7056057058629517342/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/leetcode/6_4_1124.%E8%A1%A8%E7%8E%B0%E8%89%AF%E5%A5%BD%E7%9A%84%E6%9C%80%E9%95%BF%E6%97%B6%E9%97%B4%E6%AE%B5.js)         
+1124.表现良好的最长时间段   
+[掘金](https://juejin.cn/post/7056056238182219806/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/leetcode/6_4_1124.%E8%A1%A8%E7%8E%B0%E8%89%AF%E5%A5%BD%E7%9A%84%E6%9C%80%E9%95%BF%E6%97%B6%E9%97%B4%E6%AE%B5.js)         
+636.函数的独占时间                      
+[掘金](https://juejin.cn/post/7055955553721253924/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/leetcode/6_3_636.%E5%87%BD%E6%95%B0%E7%9A%84%E7%8B%AC%E5%8D%A0%E6%97%B6%E9%97%B4.js)          
+227.基本计算器 II                       
+[掘金](https://juejin.cn/post/7055917680800301064/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/leetcode/6_2_227.%E5%9F%BA%E6%9C%AC%E8%AE%A1%E7%AE%97%E5%99%A8-ii.js)          
+145.二叉树的后序遍历                  
+[掘金](https://juejin.cn/post/7055888491229478919/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/6_1_331.%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E5%BA%8F%E5%88%97%E5%8C%96.js)          
 ## 2022-01-17   
-
-
 145.二叉树的后序遍历                  
 [掘金](https://juejin.cn/post/7054908569103106084/)       
 [代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/5_5_145.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.js)          
