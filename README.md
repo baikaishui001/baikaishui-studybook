@@ -1,7 +1,22 @@
 # baikaishui-studybook
 算法学历笔记
 leetcode
-
+## 2022-01-23   
+143.重排链表     
+[掘金](https://juejin.cn/post/7056413174739779614/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/7_5_143.%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.js)     
+445.两数相加 II     
+[掘金](https://juejin.cn/post/7056300753903681550/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/7_4_445.%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0-ii.js)     
+02.03.删除中间节点  
+[掘金](https://juejin.cn/post/7056287381611085832/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/7_2_02.03.%E5%88%A0%E9%99%A4%E4%B8%AD%E9%97%B4%E8%8A%82%E7%82%B9.js)     
+35.复杂链表的复         
+[掘金](https://juejin.cn/post/7051890605869236254/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/2_3_138.%E5%A4%8D%E5%88%B6%E5%B8%A6%E9%9A%8F%E6%9C%BA%E6%8C%87%E9%92%88%E7%9A%84%E9%93%BE%E8%A1%A8.js)     
+02.02.返回倒数第k个节点  
+[掘金](https://juejin.cn/post/7056281293805322248/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/leetcode/7_1_22.%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.js)       
 ## 2022-01-21   
 02.02.返回倒数第k个节点  
 [掘金](https://juejin.cn/post/7056057058629517342/)       
