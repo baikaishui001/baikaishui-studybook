@@ -1,6 +1,24 @@
 # baikaishui-studybook
 算法学历笔记
 leetcode
+
+## 2022-01-24   
+725.分隔链表  
+[掘金](https://juejin.cn/post/7057515725790920741/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/8_4_725.%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.js)     
+707.设计链表  
+[掘金](https://juejin.cn/post/7057490807296622623/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/8_4_02.04.%E5%88%86%E5%89%B2%E9%93%BE%E8%A1%A8.js)     
+707.设计链表  
+[掘金](https://juejin.cn/post/7057445748299792415/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/8_3_707.%E8%AE%BE%E8%AE%A1%E9%93%BE%E8%A1%A8.js)     
+02.08.环路检测  
+[掘金](https://juejin.cn/post/7049982395197423629)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/8_2_02.08.%E7%8E%AF%E8%B7%AF%E6%A3%80%E6%B5%8B.js)     
+18.删除链表的节点  
+[掘金](https://juejin.cn/post/7056770018440282143/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/8_1_18.%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E8%8A%82%E7%82%B9.js)     
+
 ## 2022-01-23   
 143.重排链表     
 [掘金](https://juejin.cn/post/7056413174739779614/)       
