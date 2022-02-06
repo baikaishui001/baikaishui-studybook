@@ -46,4 +46,3 @@ var preorderTraversal = function(root) {
 };
 console.log(preorderTraversal(root1))
 // @lc code=end
-

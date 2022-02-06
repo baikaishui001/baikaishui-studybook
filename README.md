@@ -2,7 +2,26 @@
 算法学历笔记
 leetcode
 
-## 2022-01-24   
+
+
+## 2022-02-03    
+103.二叉树的锯齿形层序遍历      
+[掘金](https://juejin.cn/post/7061611133328687135)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/11_5_103.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%94%AF%E9%BD%BF%E5%BD%A2%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.js)    
+107.二叉树的层序遍历-ii     
+[掘金](https://juejin.cn/post/7061523815905361927/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/11_4_107.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86-ii.js)   
+32-II.从上到下打印二叉树II      
+[掘金](https://juejin.cn/post/7061420167527399461/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/11_3_32-II.%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91II.js)   
+226.翻转二叉树   
+[掘金](https://juejin.cn/post/7061397266556272670/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/11_2_226.%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.js)   
+589.n-叉树的前序遍历   
+[掘金](https://juejin.cn/post/7060481717827534885/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/11_1_589.n-%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.js)     
+
+## 2022-01-26   
 662.二叉树最大宽度    
 [掘金](https://juejin.cn/post/7060481717827534885/)       
 [代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/10_3_968.%E7%9B%91%E6%8E%A7%E4%BA%8C%E5%8F%89%E6%A0%91.js)     
