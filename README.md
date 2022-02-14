@@ -3,6 +3,22 @@
 leetcode
 
 
+## 2022-02-07    
+373.查找和最小的K对数字              
+[掘金](https://juejin.cn/post/7064561538069168135/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/leetcode/12_5_373.%E6%9F%A5%E6%89%BE%E5%92%8C%E6%9C%80%E5%B0%8F%E7%9A%84k%E5%AF%B9%E6%95%B0%E5%AD%97.js)     
+703.数据流中的第 K 大元素              
+[掘金](https://juejin.cn/post/7063829741077266463/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/leetcode/12_4_703.%E6%95%B0%E6%8D%AE%E6%B5%81%E4%B8%AD%E7%9A%84%E7%AC%AC-k-%E5%A4%A7%E5%85%83%E7%B4%A0.js)     
+1046.最后一块石头的重量               
+[掘金](https://juejin.cn/post/7063444647229521934/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/leetcode/12_3_1046.%E6%9C%80%E5%90%8E%E4%B8%80%E5%9D%97%E7%9F%B3%E5%A4%B4%E7%9A%84%E9%87%8D%E9%87%8F.js)     
+40.最小的k个数               
+[掘金](https://juejin.cn/post/7063071022387298312/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/leetcode/12_2_40.%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.js)     
+110.平衡二叉树               
+[掘金](https://juejin.cn/post/7061862013189750791/)       
+[代码](https://github.com/baikaishui001/baikaishui-studybook/blob/main/leetcode/12_1_110.%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.js)    
 
 ## 2022-02-03    
 103.二叉树的锯齿形层序遍历      
