@@ -1,17 +1,17 @@
 /*
- * @lc app=leetcode.cn id=684 lang=javascript
+ * @lc app=leetcode.cn id=765 lang=javascript
  *
- * [684] 冗余连接
+ * [765] 情侣牵手
  */
 
 // @lc code=start
 /**
- * @param {number[][]} edges
- * @return {number[]}
+ * @param {number[]} row
+ * @return {number}
  */
 class UnionFind {
   constructor(length) {
-    this.parent = new Array(length).fill(0).map((v, index) => index);
+    this.parent = new Array(length).fill(0).map((v, j) => j);
     this.rank = new Array(length).fill(1);
     this.setCount = length;
   }
@@ -37,27 +37,19 @@ class UnionFind {
     return this.setCount;
   }
 }
-
-var findRedundantConnection = function (edges) {
-  let nodesCount = edges.length;
-  let uf = new UnionFind(nodesCount);
-  for (let i = 0; i < nodesCount; i++) {
-    let edge = edges[i];
-    let node1 = edge[0],
-      node2 = edge[1];
-    if (uf.findSet(node1) != uf.findSet(node2)) {
-      uf.unite(node1, node2);
-    } else {
-      return edge;
+var minSwapsCouples = function (row) {
+    const len=row.length
+    const N=len>>1
+    const uf=new UnionFind(N)
+    for (let i = 0; i < len; i+=2) {
+        let cur=row[i],nextId=row[i+1]>>1;
+        //根据id>>1相等即为情侣的情况，将cur与next不相等的标记
+        if(cur!==nextId){
+            uf.unite(row[i]>>1,row[i+1]>>1)
+        }
     }
-  }
-  return [0];
+    return N - uf.getCount()
+
 };
-console.log(
-  findRedundantConnection([
-    [1, 2],
-    [1, 3],
-    [2, 3],
-  ])
-);
+console.log(minSwapsCouples([5,3,4,2,1,0]))
 // @lc code=end
